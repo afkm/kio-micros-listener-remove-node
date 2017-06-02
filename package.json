@@ -1,5 +1,5 @@
 {
-  "name": "listener-remove-node",
+  "name": "remove-node",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
